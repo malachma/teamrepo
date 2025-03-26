@@ -4,3 +4,6 @@
 [submodule "AnalyzeKdump"]
 	path = AnalyzeKdump
 	url = https://github.com/FrankZhu888/AnalyzeKdump
+[submodule "repair-script-library"]
+	path = repair-script-library
+	url = https://github.com/malachma/repair-script-library
