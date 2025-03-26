@@ -1,0 +1,6 @@
+[submodule "pacemaker"]
+	path = pacemaker
+	url = https://github.com/paulxjp/pacemaker
+[submodule "AnalyzeKdump"]
+	path = AnalyzeKdump
+	url = https://github.com/FrankZhu888/AnalyzeKdump
